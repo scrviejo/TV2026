@@ -1,4 +1,4 @@
-#EXTM3U url="https://raw.githubusercontent.com/scrviejo/TV2026/refs/heads/main/TV2026"
+#EXTM3U url="https://raw.githubusercontent.com/scrviejo/TV2026/refs/heads/main/tv2026.m3u"
 
 #EXTINF:-1 group-title="-",L1 MAX
 http://190.93.229.30:8000/play/a0jr/index.m3u8
