@@ -1,158 +1,158 @@
 #EXTM3U url="https://raw.githubusercontent.com/scrviejo/TV2026/refs/heads/main/tv2026.m3u"
 
-#EXTINF:-1 group-title="-",L1 MAX
+#EXTINF:-1 group-title="Perú",L1 MAX
 http://190.93.229.30:8000/play/a0jr/index.m3u8
-#EXTINF:-1 group-title="-",L1 MAX
+#EXTINF:-1 group-title="Perú",L1 MAX
 http://38.190.100.202:8000/play/a013/index.m3u8
 #EXTINF:-1,L1 MAX
 http://38.190.4.166:8000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="-",L1 MAX
+#EXTINF:-1 group-title="Perú",L1 MAX
 http://177.53.152.117:8000/play/a0b3/index.m3u8
-#EXTINF:-1 group-title="-",L1 Amazonas
+#EXTINF:-1 group-title="Perú",L1 Amazonas
 http://177.53.153.21:8000/play/a188/index.m3u8
-#EXTINF:-1 group-title="-",L1 MAX  Amazonas
+#EXTINF:-1 group-title="Perú",L1 MAX  Amazonas
 http://177.53.153.21:8000/play/a16u/index.m3u8
-#EXTINF:-1 group-title="-",L1 MAX Respaldo
+#EXTINF:-1 group-title="Perú",L1 MAX Respaldo
 http://177.53.153.21:8000/play/a19f/index.m3u8
-#EXTINF:-1 group-title="-",L1
+#EXTINF:-1 group-title="Perú",L1
 http://181.66.249.246:8000/play/a0jf/index.m3u8
-#EXTINF:-1 group-title="-",L1 MAX
+#EXTINF:-1 group-title="Perú",L1 MAX
 http://181.66.249.246:8000/play/a0j2/index.m3u8
-#EXTINF:-1 group-title="-",L1 MAX
+#EXTINF:-1 group-title="Perú",L1 MAX
 http://38.19.16.151:8000/play/a0u7
-#EXTINF:-1 group-title="-",L1 MAX
+#EXTINF:-1 group-title="Perú",L1 MAX
 http://190.119.168.226:4000/play/a0fx/index.m3u8
-#EXTINF:-1 group-title="-",L1
+#EXTINF:-1 group-title="Perú",L1
 http://38.226.49.253:8000/play/a0gl/index.m3u8
-#EXTINF:-1 group-title="-",L1 MAX
+#EXTINF:-1 group-title="Perú",L1 MAX
 http://38.226.49.253:8000/play/a0g4/index.m3u8
-#EXTINF:-1 group-title="-",L1 MAX
+#EXTINF:-1 group-title="Perú",L1 MAX
 http://191.97.55.72:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="-",L1
+#EXTINF:-1 group-title="Perú",L1
 http://179.63.5.46:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="-",L1 MAX
+#EXTINF:-1 group-title="Perú",L1 MAX
 http://179.63.5.46:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="-",L1MAX
+#EXTINF:-1 group-title="Perú",L1MAX
 http://38.252.215.33:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="-",L1 MAX
+#EXTINF:-1 group-title="Perú",L1 MAX
 http://38.224.175.2:8000/play/a07e/index.m3u8
-#EXTINF:-1 group-title="-",LIGA 1
+#EXTINF:-1 group-title="Perú",LIGA 1
 http://38.224.175.2:8000/play/a07s/index.m3u8
-#EXTINF:-1 group-title="-",L1
+#EXTINF:-1 group-title="Perú",L1
 http://38.210.105.10:8000/play/a0d5/index.m3u8
-#EXTINF:-1 group-title="-",L1 MAX
+#EXTINF:-1 group-title="Perú",L1 MAX
 http://38.210.105.10:8000/play/a0gv/index.m3u8
-#EXTINF:-1 group-title="-",(mov) Liga 1 HD
+#EXTINF:-1 group-title="Perú",(mov) Liga 1 HD
 http://200.37.149.6:8000/play/a0oa/index.m3u8
-#EXTINF:-1 group-title="-",(mov) Liga 1 Max HD
+#EXTINF:-1 group-title="Perú",(mov) Liga 1 Max HD
 http://200.37.149.6:8000/play/a0sk/index.m3u8
-#EXTINF:-1,7: LIGA 1 MAX (NEXT F)
+#EXTINF:-1 group-title="Perú",LIGA 1 MAX (NEXT F)
 http://38.52.200.209:8000/play/a07n/index.m3u8
-#EXTINF:-1,9: L1 MAX nagraSAT
+#EXTINF:-1 group-title="Perú",L1 MAX nagraSAT
 http://38.52.200.209:8000/play/a08i/index.m3u8
-#EXTINF:-1,America TV HD
+#EXTINF:-1 group-title="Perú",America TV HD
 http://181.224.200.5:2277/play/a0dc/index.m3u8
-#EXTINF:-1 group-title="-",DEPORTES 4K
+#EXTINF:-1 group-title="Deportes",DEPORTES 4K
 http://190.83.9.222:8000/play/ca090/index.m3u8
-#EXTINF:-1 group-title="-",DEPORTES PREMIUM 3  HD
+#EXTINF:-1 group-title="Deportes",DEPORTES PREMIUM 3  HD
 http://190.83.9.222:8000/play/ca101/index.m3u8
-#EXTINF:-1 group-title="-",DEPORTES PREMIUM 3 - 4K
+#EXTINF:-1 group-title="Deportes",DEPORTES PREMIUM 3 - 4K
 http://190.83.9.222:8000/play/ca004/index.m3u8
-#EXTINF:-1 group-title="-",TUDN 4K
+#EXTINF:-1 group-title="Deportes",TUDN 4K
 http://190.83.9.222:8000/play/ca040/index.m3u8
-#EXTINF:-1 group-title="-",TUDN HD
+#EXTINF:-1 group-title="Deportes",TUDN HD
 http://190.83.9.222:8000/play/ca099/index.m3u8
-#EXTINF:-1 group-title="-",Tigo Sports HD
+#EXTINF:-1 group-title="Deportes",Tigo Sports HD
 http://190.105.128.198:5800/play/a05p/index.m3u8
-#EXTINF:-1,America TV HD
+#EXTINF:-1 group-title="Perú",America TV HD
 http://38.210.3.64:8090/play/a0bw/index.m3u8
-#EXTINF:-1,America TV HD
+#EXTINF:-1 group-title="Perú",America TV HD
 http://181.224.200.5:2277/play/a0dc/index.m3u8
-#EXTINF:-1 group-title="-",CARACOL-ENCODER-67
+#EXTINF:-1 group-title="Colombia", CARACOL-ENCODER-67
 http://181.225.73.159:8000/play/a0ae/index.m3u8
-#EXTINF:-1 group-title="-",Canal Caracol
+#EXTINF:-1 group-title="Colombia",Canal Caracol
 http://181.225.73.159:8000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="-",Canal RCN
+#EXTINF:-1 group-title="Colombia",Canal RCN
 http://181.225.73.159:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="-",CHV
+#EXTINF:-1 group-title="Chile",CHV
 http://45.173.231.22:8000/play/a0ab/index.m3u8
-#EXTINF:-1 group-title="-",CHV HD
+#EXTINF:-1 group-title="Chile",CHV HD
 http://45.173.231.22:8000/play/a06m/index.m3u8
-#EXTINF:-1 group-title="-",Canal Caracol
+#EXTINF:-1 group-title="Colombia",Canal Caracol
 http://45.173.231.22:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="-",America TV HD
+#EXTINF:-1 group-title="Perú",America TV HD
 http://190.238.43.117:9000/play/a0dg/index.m3u8
-#EXTINF:-1 group-title="-",CHV HD
+#EXTINF:-1 group-title="Chile",CHV HD
 http://190.238.43.117:9000/play/a0g2/index.m3u8
-#EXTINF:-1 group-title="-",BEIN Sport
+#EXTINF:-1 group-title="Deportes",BEIN Sport
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 group-title="-",ESPN
+#EXTINF:-1 group-title="Deportes",ESPN
 http://195.178.110.110/espn/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2
+#EXTINF:-1 group-title="Deportes",ESPN 2
 http://195.178.110.110/espn2/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3
+#EXTINF:-1 group-title="Perú",ESPN 3
 http://195.178.110.110/espn3/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 4
+#EXTINF:-1 group-title="Deportes",ESPN 4
 http://195.178.110.110/espn4/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 5
+#EXTINF:-1 group-title="Deportes",ESPN 5
 http://195.178.110.110/espn5/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6
+#EXTINF:-1 group-title="Deportes",ESPN 6
 http://195.178.110.110/espn6/index.m3u8
-#EXTINF:-1 group-title="-",DSPORTS_OTT
+#EXTINF:-1 group-title="Deportes",DSPORTS_OTT
 http://45.70.221.206/DSPORTS_OTT/playlist.m3u8
-#EXTINF:-1 group-title="-",DSPORTS 2
+#EXTINF:-1 group-title="Deportes",DSPORTS 2
 http://181.209.105.115:2525/play/dsports2/index.m3u8
-#EXTINF:-1 group-title="-",DSPORTS +
+#EXTINF:-1 group-title="Deportes",DSPORTS +
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1091368.m3u8
-#EXTINF:-1 group-title="-",ESPN 7
+#EXTINF:-1 group-title="Deportes",ESPN 7
 http://195.178.110.110/espn7/index.m3u8
-#EXTINF:-1 group-title="-",TYC Sport
+#EXTINF:-1 group-title="Deportes",TYC Sport
 http://wbtv.top:8080/live/JulioMedrano@/6xBGSDap44/712754.m3u8
-#EXTINF:-1 group-title="-",RCN
+#EXTINF:-1 group-title="Colombia",RCN
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Nuestra_tele_SIGNAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DNuestra_tele_stream_ry&_cdn_session=6567635139&_cdn_token=2f3dd09cf16be815ada4739cc901895ec467b0fc
-#EXTINF:-1 group-title="-",foxsportspremium
+#EXTINF:-1 group-title="Deportes",Fox Sports Premium
 http://195.178.110.110/foxsportspremium/index.m3u8
-#EXTINF:-1 group-title="-",DSPORTS 2
+#EXTINF:-1 group-title="Deportes",DSPORTS 2
 http://181.209.105.115:2525/play/dsports2/index.11111
-#EXTINF:-1 group-title="-",LATINA
+#EXTINF:-1 group-title="Perú",LATINA
 http://190.93.224.42/LATINA/index.m3u8
-#EXTINF:-1 group-title="-",TYC
+#EXTINF:-1 group-title="Deportes",TYC
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 group-title="-",TELEMUNDO
+#EXTINF:-1 group-title="Mexico",TELEMUNDO
 http://170.254.17.2:80/TELEMUNDO/index.m3u8
-#EXTINF:-1 group-title="-",TELEMUNDO
+#EXTINF:-1 group-title="Mexico",TELEMUNDO
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459
-#EXTINF:-1 group-title="-",TELEMUNDO
+#EXTINF:-1 group-title="Mexico",TELEMUNDO
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_web_telemundodeportesahora_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=b36e307c-e835-41d4-a9e0-7056ccf64082&ads._fw_vcid2=512116:b36e307c-e835-41d4-a9e0-7056ccf64082&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=es&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4281&ads.xumo_contentName=TelemundoDeportesAhora&ads.xumo_providerId=4281&ads.xumo_providerName=TelemundoDeportesAhora&ads.channelId=99951459&ads._fw_ifa_type=
-#EXTINF:-1 group-title="-",DSPORTS HD
+#EXTINF:-1 group-title="Deportes",DSPORTS HD
 https://tinyurl.com/dsportsgo
-#EXTINF:-1 group-title="-",DSPORTS HD
+#EXTINF:-1 group-title="Deportes",DSPORTS HD
 http://23.237.104.106:8080/DAZN_2/index.m3u8
-#EXTINF:-1 group-title="-", CINECANAL
+#EXTINF:-1 group-title="Cine", CINECANAL
 http://tvpremiumcol.net:25461/live/Premium86xxx/up7aYbqN2p/4286.m3u8
-#EXTINF:-1 group-title="-",DSPORTS HD Chile
+#EXTINF:-1 group-title="Deportes",DSPORTS HD Chile
 http://chile.latamgo.xyz:80/play/vtaO0ouAo8OQS81QpPa_IGUOEBfSNG0gchuI0s3Ij6zy3KiyWjP0rAjBnIHgEG7W/m3u8
-#EXTINF:-1 group-title="-",DSPORTS+ HD
+#EXTINF:-1 group-title="Deportes",DSPORTS+ HD
 http://190.238.43.117:9000/play/a09g/index.m3u8
-#EXTINF:-1 group-title="-",DSPORTS2 HD
+#EXTINF:-1 group-title="Deportes",DSPORTS2 HD
 http://190.238.43.117:9000/play/a09f/index.m3u8
-#EXTINF:-1 group-title="-",1038 CHV HD
+#EXTINF:-1 group-title="Chile",1038 CHV HD
 http://45.5.57.58:8000/play/a02h/index.m3u8
-#EXTINF:-1 group-title="-",4022 America TV HD
+#EXTINF:-1 group-title="Perú",4022 America TV HD
 http://45.5.57.58:8000/play/a05r/index.m3u8
-#EXTINF:-1 group-title="-", 1.127 TELEMUNDO MIAMI
+#EXTINF:-1 group-title="Mexico", 1.127 TELEMUNDO MIAMI
 http://181.119.108.43:9001/play/a0nb/index.m3u8
-#EXTINF:-1 group-title="-",0 GTM Fox MX HD
+#EXTINF:-1 group-title="Deportes",0 GTM Fox MX HD
 http://181.119.108.43:9001/play/a075/index.m3u8
-#EXTINF:-1 group-title="-",1.103 FOX ESA HD
+#EXTINF:-1 group-title="Deportes",1.103 FOX ESA HD
 http://181.119.108.43:9001/play/a0ng/index.m3u8
-#EXTINF:-1 group-title="-",1.103 FOX GUA HD
+#EXTINF:-1 group-title="Deportes",1.103 FOX GUA HD
 http://181.119.108.43:9001/play/a0n8/index.m3u8
-#EXTINF:-1 group-title="-",1.180 FOX CR HD
+#EXTINF:-1 group-title="Deportes",1.180 FOX CR HD
 http://181.119.108.43:9001/play/a0nc/index.m3u8
-#EXTINF:-1 group-title="-",IXP MX 1.107 AZTECA 7
+#EXTINF:-1 group-title="Mexico",IXP MX 1.107 AZTECA 7
 http://181.119.108.43:9001/play/a06c/index.m3u8
-#EXTINF:-1 group-title="-",IXP 1.127 TELEMUNDO MIAMI
+#EXTINF:-1 group-title="Mexico",IXP 1.127 TELEMUNDO MIAMI
 http://181.119.108.43:9001/play/a044/index.m3u8
 #EXTINF:-1, 1: LIGA 1 MAX
 http://38.52.200.209:8000/play/a069/index.m3u8
