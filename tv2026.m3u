@@ -364,9 +364,6 @@ http://38.52.200.209:8000/play/a07e/index.m3u8
 http://38.52.200.209:8000/play/a08j/index.m3u8
 #EXTINF:-1 group-title="Perú", global HD
 http://38.52.200.209:8000/play/a054/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="EVENTOS",DSPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
