@@ -1,27 +1,27 @@
 #EXTM3U url="https://raw.githubusercontent.com/scrviejo/TV2026/refs/heads/main/tv2026.m3u"
 
 
-#EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="Eventos",DSPORTS HD
+#EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="EVENTOS",DSPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
 
-#EXTINF:-1 tvg-id="DIRECTVSports.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="Eventos",DSPORTS CHILE
+#EXTINF:-1 tvg-id="DIRECTVSports.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="EVENTOS",DSPORTS CHILE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d88a44bc0255fdc402a1a7c7151545e:a9968e19c6324e12d285836961421755
 https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/ndgbhivgbd/out/v1/39e5ea4eae884fc2bf8def73527add6a/cenc.mpd
 
-#EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="Eventos",DSPORTS
+#EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="EVENTOS",DSPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d88a44bc0255fdc402a1a7c7151545e:a9968e19c6324e12d285836961421755
 https://a49live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/my5zrwcz67/out/v1/f5e6298f64c34c62a4f69e6667cc23af/cenc.mpd
 
-#EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="Eventos",DSPORTS+
+#EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="EVENTOS",DSPORTS+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -29,74 +29,133 @@ https://a49live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/my5zr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://ablvfhaaaaaaaaamisf6uy7d6mtud.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/tyvyvcib0h/out/v1/9e464a5c6e864dfb8641ce3851023452/cenc-sd.mpd|referer=https://primevideo.com|origin=https://primevideo.com/
 
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png" group-title="Eventos",CANAL 5 HD
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png" group-title="EVENTOS",CANAL 5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
 
-#EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-logo="https://i.ibb.co/k2C3Hb0L/DSports2.png" group-title="Eventos",DSPORTS 2 HD
+#EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-logo="https://i.ibb.co/k2C3Hb0L/DSports2.png" group-title="EVENTOS",DSPORTS 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0db71325e4256f5f16b348b3b1b7832a:c664b811a97edc555da47c1d22482542
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd
 
-#EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="Eventos",DSPORTS HD MX
+#EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-logo="https://i.ibb.co/k2C3Hb0L/DSports2.png" group-title="EVENTOS",DSPORTS 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DSPORTS2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
+
+#EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="EVENTOS",DSPORTS HD MX
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c432184d1ab00475aded5731162d99b7:5f361ae2b35dcb415fe612ea7e85ed9d
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/out/v1/4ef0db80aa3341e2babb58314541f1e0/cenc.mpd
 
-#EXTINF:-1 group-title="Perú",L1 MAX
-http://190.93.229.30:8000/play/a0jr/index.m3u8
-#EXTINF:-1 group-title="Perú",L1 MAX
+#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/tudn-mx.png" group-title="EVENTOS",TUDN HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
+
+#EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="EVENTOS",DSPORTS+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5dd5c144ed82ca5846f67413515c6350:ec3ff0d2a29e18a34ab19155641f5f2f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ablvfhaaaaaaaaamisf6uy7d6mtud.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/tyvyvcib0h/out/v1/9e464a5c6e864dfb8641ce3851023452/cenc-sd.mpd|referer=https://primevideo.com|origin=https://primevideo.com/
+
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-logo="https://i.ibb.co/TM9gFMhQ/Espn2.png" group-title="EVENTOS",ESPN 2 MX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
+http://live4-ott.izzigo.tv/7/out/u/dash/ESPN-2-HD-H265/default.mpd
+
+#EXTINF:-1 tvg-id="FOXSports2.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fox-sports-2-lam.png" group-title="EVENTOS",FOX SPORTS 2 MX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+
+#EXTINF:-1 tvg-id="FOXSports.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fox-sports-lam.png" group-title="EVENTOS",FOX SPORTS MX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f,2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#EXTINF:-1 tvg-id="FOXSports3.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fox-sports-3-hd-lam.png" group-title="EVENTOS",FOX SPORTS 3 MX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+http://a173aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/suekwxntzd/out/v1/c67db31de6b447a48a70e997c33eb71f/cenc.mpd
+
+#EXTINF:-1 tvg-id="FOXSportsPremium.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fox-sports-premium-lam.png" group-title="EVENTOS",FOX SPORTS PREMIUM HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#EXTINF:-1 tvg-id="FOXSports.mx" tvg-logo="https://i.ibb.co/SX2GsNgb/Fox-MX-II.jpg" group-title="EVENTOS",FOX DEPORTES
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ep9juc1600503096.png" group-title="Perú Deportes",MOVISTAR DEPORTES PERU
+http://38.190.101.128:2233/play/a0xz/index.m3u8
+#EXTINF:-1 group-title="Perú Deportes",L1 MAX
+https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
+#EXTINF:-1 group-title="Perú Deportes",L1 MAX
 http://38.190.100.202:8000/play/a013/index.m3u8
-#EXTINF:-1,L1 MAX
+#EXTINF:-1 group-title="Perú Deportes",L1 MAX
 http://38.190.4.166:8000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="Perú",L1 MAX
+#EXTINF:-1 group-title="Perú Deportes",L1 MAX
 http://177.53.152.117:8000/play/a0b3/index.m3u8
-#EXTINF:-1 group-title="Perú",L1 Amazonas
+#EXTINF:-1 group-title="Perú Deportes",L1 Amazonas
 http://177.53.153.21:8000/play/a188/index.m3u8
-#EXTINF:-1 group-title="Perú",L1 MAX  Amazonas
+#EXTINF:-1 group-title="Perú Deportes",L1 MAX  Amazonas
 http://177.53.153.21:8000/play/a16u/index.m3u8
-#EXTINF:-1 group-title="Perú",L1 MAX Respaldo
+#EXTINF:-1 group-title="Perú Deportes",L1 MAX Respaldo
 http://177.53.153.21:8000/play/a19f/index.m3u8
-#EXTINF:-1 group-title="Perú",L1
+#EXTINF:-1 group-title="Perú Deportes",L1
 http://181.66.249.246:8000/play/a0jf/index.m3u8
-#EXTINF:-1 group-title="Perú",L1 MAX
+#EXTINF:-1 group-title="Perú Deportes",L1 MAX
 http://181.66.249.246:8000/play/a0j2/index.m3u8
-#EXTINF:-1 group-title="Perú",L1 MAX
+#EXTINF:-1 group-title="Perú Deportes",L1 MAX
 http://38.19.16.151:8000/play/a0u7
-#EXTINF:-1 group-title="Perú",L1 MAX
+#EXTINF:-1 group-title="Perú Deportes",L1 MAX
 http://190.119.168.226:4000/play/a0fx/index.m3u8
-#EXTINF:-1 group-title="Perú",L1
+#EXTINF:-1 group-title="Perú Deportes",L1
 http://38.226.49.253:8000/play/a0gl/index.m3u8
-#EXTINF:-1 group-title="Perú",L1 MAX
+#EXTINF:-1 group-title="Perú Deportes",L1 MAX
 http://38.226.49.253:8000/play/a0g4/index.m3u8
-#EXTINF:-1 group-title="Perú",L1 MAX
+#EXTINF:-1 group-title="Perú Deportes",L1 MAX
 http://191.97.55.72:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Perú",L1
+#EXTINF:-1 group-title="Perú Deportes",L1
 http://179.63.5.46:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Perú",L1 MAX
+#EXTINF:-1 group-title="Perú Deportes",L1 MAX
 http://179.63.5.46:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="Perú",L1MAX
+#EXTINF:-1 group-title="Perú Deportes",L1MAX
 http://38.252.215.33:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Perú",L1 MAX
+#EXTINF:-1 group-title="Perú Deportes",L1 MAX
 http://38.224.175.2:8000/play/a07e/index.m3u8
-#EXTINF:-1 group-title="Perú",LIGA 1
+#EXTINF:-1 group-title="Perú Deportes",LIGA 1
 http://38.224.175.2:8000/play/a07s/index.m3u8
-#EXTINF:-1 group-title="Perú",L1
+#EXTINF:-1 group-title="Perú Deportes",L1
 http://38.210.105.10:8000/play/a0d5/index.m3u8
-#EXTINF:-1 group-title="Perú",L1 MAX
+#EXTINF:-1 group-title="Perú Deportes",L1 MAX
 http://38.210.105.10:8000/play/a0gv/index.m3u8
-#EXTINF:-1 group-title="Perú",(mov) Liga 1 HD
+#EXTINF:-1 group-title="Perú Deportes",(mov) Liga 1 HD
 http://200.37.149.6:8000/play/a0oa/index.m3u8
-#EXTINF:-1 group-title="Perú",(mov) Liga 1 Max HD
+#EXTINF:-1 group-title="Perú Deportes",(mov) Liga 1 Max HD
 http://200.37.149.6:8000/play/a0sk/index.m3u8
-#EXTINF:-1 group-title="Perú",LIGA 1 MAX (NEXT F)
+#EXTINF:-1 group-title="Perú Deportes",LIGA 1 MAX (NEXT F)
 http://38.52.200.209:8000/play/a07n/index.m3u8
-#EXTINF:-1 group-title="Perú",L1 MAX nagraSAT
+#EXTINF:-1 group-title="Perú Deportes",L1 MAX nagraSAT
 http://38.52.200.209:8000/play/a08i/index.m3u8
 #EXTINF:-1 group-title="Perú",America TV HD
 http://181.224.200.5:2277/play/a0dc/index.m3u8
@@ -135,25 +194,27 @@ http://190.238.43.117:9000/play/a0g2/index.m3u8
 #EXTINF:-1 group-title="Deportes",BEIN Sport
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN
-http://195.178.110.110/espn/index.m3u8
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN
+https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 2
-http://195.178.110.110/espn2/index.m3u8
+https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 3
-http://195.178.110.110/espn3/index.m3u8
+https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 4
-http://195.178.110.110/espn4/index.m3u8
+https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 5
-http://195.178.110.110/espn5/index.m3u8
+https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 6
-http://195.178.110.110/espn6/index.m3u8
-#EXTINF:-1 group-title="Deportes",DSPORTS_OTT
+https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8
+#EXTINF:-1 group-title="EVENTOS",ESPN 7
+https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
+#EXTINF:-1 group-title="EVENTOS",DSPORTS_OTT
 http://45.70.221.206/DSPORTS_OTT/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",DSPORTS 2
 http://181.209.105.115:2525/play/dsports2/index.m3u8
 #EXTINF:-1 group-title="Deportes",DSPORTS +
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1091368.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 7
-http://195.178.110.110/espn7/index.m3u8
 #EXTINF:-1 group-title="Deportes",TYC Sport
 http://wbtv.top:8080/live/JulioMedrano@/6xBGSDap44/712754.m3u8
 #EXTINF:-1 group-title="Colombia",RCN
@@ -202,7 +263,7 @@ http://181.119.108.43:9001/play/a0nc/index.m3u8
 http://181.119.108.43:9001/play/a06c/index.m3u8
 #EXTINF:-1 group-title="Mexico",IXP 1.127 TELEMUNDO MIAMI
 http://181.119.108.43:9001/play/a044/index.m3u8
-#EXTINF:-1 group-title="Perú",LIGA 1 MAX
+#EXTINF:-1 group-title="Perú Deportes",LIGA 1 MAX
 http://38.52.200.209:8000/play/a069/index.m3u8
 #EXTINF:-1 group-title="Perú",TVPeru 7.3
 http://38.52.200.209:8000/play/a02d/index.m3u8
@@ -226,7 +287,7 @@ http://38.52.200.209:8000/play/a01s/index.m3u8
 http://38.52.200.209:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Cine",TNT HD
 http://38.52.200.209:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="Documentales", DISCOVERY WORDL
+#EXTINF:-1 group-title="Documental", DISCOVERY WORDL
 http://38.52.200.209:8000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="Deportes", ESPN3 HD
 http://38.52.200.209:8000/play/a01q/index.m3u8
@@ -234,9 +295,9 @@ http://38.52.200.209:8000/play/a01q/index.m3u8
 http://38.52.200.209:8000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="Deportes", ESPN5 HD 1
 http://38.52.200.209:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Perú", LIGA 1 MAX (NEXT F)
+#EXTINF:-1 group-title="Perú Deportes", LIGA 1 MAX (NEXT F)
 http://38.52.200.209:8000/play/a07n/index.m3u8
-#EXTINF:-1 group-title="Perú", L1 MAX nagraSAT
+#EXTINF:-1 group-title="Perú Deportes", L1 MAX nagraSAT
 http://38.52.200.209:8000/play/a08i/index.m3u8
 #EXTINF:-1 group-title="Cine", CINEMAX HD
 http://38.52.200.209:8000/play/a023/index.m3u8
@@ -314,7 +375,7 @@ http://38.52.200.209:8000/play/a089/index.m3u8
 http://38.52.200.209:8000/play/a094/index.m3u8
 #EXTINF:-1 group-title="Perú", INKA VISION
 http://38.52.200.209:8000/play/a077/index.m3u8
-#EXTINF:-1 group-title="Perú", L1 MAX HD
+#EXTINF:-1 group-title="Perú Deportes", L1 MAX HD
 http://38.52.200.209:8000/play/a09g/index.m3u8
 #EXTINF:-1 group-title="Perú", LA PODEROSA
 http://38.52.200.209:8000/play/a09p/index.m3u8
@@ -324,13 +385,13 @@ http://38.52.200.209:8000/play/a09w/index.m3u8
 http://38.52.200.209:8000/play/a08k/index.m3u8
 #EXTINF:-1 group-title="Perú", LATINA SATELITE
 http://38.52.200.209:8000/play/a07j/index.m3u8
-#EXTINF:--1 group-title="Perú", LIGA 1 SATELITE
+#EXTINF:--1 group-title="Perú Deportes", LIGA 1 SATELITE
 http://38.52.200.209:8000/play/a08v/index.m3u8
-#EXTINF:-1 group-title="Perú", LIGA 1 SATELITE 2
+#EXTINF:-1 group-title="Perú Deportes", LIGA 1 SATELITE 2
 http://38.52.200.209:8000/play/a08w/index.m3u8
-#EXTINF:-1 group-title="Perú", LIGA BASICO
+#EXTINF:-1 group-title="Perú Deportes", LIGA BASICO
 http://38.52.200.209:8000/play/a08x/index.m3u8
-#EXTINF:-1 group-title="Perú", M DEPORTES
+#EXTINF:-1 group-title="Perú Deportes", M DEPORTES
 http://38.52.200.209:8000/play/a08q/index.m3u8
 #EXTINF:--1 group-title="Documental", NAT GEO
 http://38.52.200.209:8000/play/a06d/index.m3u8
