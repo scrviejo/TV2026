@@ -193,19 +193,19 @@ http://190.238.43.117:9000/play/a0dg/index.m3u8
 http://190.238.43.117:9000/play/a0g2/index.m3u8
 #EXTINF:-1 group-title="Deportes",BEIN Sport
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN
+#EXTINF:-1 group-title="EVENTOS",ESPN
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN
+#EXTINF:-1 group-title="EVENTOS",ESPN
 https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 2
+#EXTINF:-1 group-title="EVENTOS",ESPN 2
 https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 3
+#EXTINF:-1 group-title="EVENTOS",ESPN 3
 https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 4
+#EXTINF:-1 group-title="EVENTOS",ESPN 4
 https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 5
+#EXTINF:-1 group-title="EVENTOS",ESPN 5
 https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 6
+#EXTINF:-1 group-title="EVENTOS",ESPN 6
 https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8
 #EXTINF:-1 group-title="EVENTOS",ESPN 7
 https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
