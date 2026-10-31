@@ -473,5 +473,7 @@ http://38.52.200.209:8000/play/a07e/index.m3u8
 http://38.52.200.209:8000/play/a08j/index.m3u8
 #EXTINF:-1 group-title="Perú", global HD
 http://38.52.200.209:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="VAUGHNSOFT", JUANCINE TV
+https://stream-cdn-iad3.vaughnsoft.net/play/live_juancine_tv.flv?android_vs.ts
 
 
