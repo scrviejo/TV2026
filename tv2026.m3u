@@ -482,7 +482,7 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_mega_bot.flv?android_vs.ts.m3u8
 #EXTINF:-1 group-title="VAUGHNSOFT", Criticando_pelis3
 https://stream-cdn-iad3.vaughnsoft.net/play/live_criticando_pelis3.flv?android_vs.ts.m3u8
 #EXTINF:-1 group-title="VAUGHNSOFT", Peliculas_mania
-https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_maniaflv?android_vs.ts.m3u8
+https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_mania.flv?android_vs.ts.m3u8
 #EXTINF:-1 group-title="VAUGHNSOFT", Melonmovies
 https://stream-cdn-iad3.vaughnsoft.net/play/live_melonmovies.flv?android_vs.ts.m3u8
 #EXTINF:-1 group-title="VAUGHNSOFT", Mangondelicioso
@@ -495,7 +495,15 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv?android_vs.ts
 https://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_latam.flv?android_vs.ts.m3u8
 #EXTINF:-1 group-title="VAUGHNSOFT", Goku_tv_oficial
 https://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_oficial.flv?android_vs.ts.m3u8
-#EXTINF:-1 group-title="VAUGHNSOFT", Televisionomega
-https://stream-cdn-iad3.vaughnsoft.net/play/live_televisionomega.flv?android_vs.ts.m3u8
+#EXTINF:-1 group-title="VAUGHNSOFT", A_neflix01
+https://stream-cdn-iad3.vaughnsoft.net/play/live_a_neflix01.flv?android_vs.ts.m3u8
+#EXTINF:-1 group-title="VAUGHNSOFT", Mega_kids
+https://stream-cdn-iad3.vaughnsoft.net/play/live_mega_kids.flv?android_vs.ts.m3u8
+#EXTINF:-1 group-title="VAUGHNSOFT", Megamundohd
+https://stream-cdn-iad3.vaughnsoft.net/play/live_megamundohd.flv?android_vs.ts.m3u8
+#EXTINF:-1 group-title="VAUGHNSOFT", Beto_7hd
+https://stream-cdn-iad3.vaughnsoft.net/play/live_beto_7hd.flv?android_vs.ts.m3u8
+#EXTINF:-1 group-title="VAUGHNSOFT", Marlon_hd
+https://stream-cdn-iad3.vaughnsoft.net/play/live_marlon_hd.flv?android_vs.ts.m3u8
 
 
