@@ -477,5 +477,25 @@ http://38.52.200.209:8000/play/a054/index.m3u8
 https://stream-cdn-iad3.vaughnsoft.net/play/live_juancine_tv.flv?android_vs.ts.m3u8
 #EXTINF:-1 group-title="VAUGHNSOFT", XSMovies
 https://stream-cdn-iad3.vaughnsoft.net/play/live_xsmovies.flv?android_vs.ts.m3u8
+#EXTINF:-1 group-title="VAUGHNSOFT", Mega bot
+https://stream-cdn-iad3.vaughnsoft.net/play/live_mega_bot.flv?android_vs.ts.m3u8
+#EXTINF:-1 group-title="VAUGHNSOFT", Criticando_pelis3
+https://stream-cdn-iad3.vaughnsoft.net/play/live_criticando_pelis3.flv?android_vs.ts.m3u8
+#EXTINF:-1 group-title="VAUGHNSOFT", Peliculas_mania
+https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_maniaflv?android_vs.ts.m3u8
+#EXTINF:-1 group-title="VAUGHNSOFT", Melonmovies
+https://stream-cdn-iad3.vaughnsoft.net/play/live_melonmovies.flv?android_vs.ts.m3u8
+#EXTINF:-1 group-title="VAUGHNSOFT", Mangondelicioso
+https://stream-cdn-iad3.vaughnsoft.net/play/live_mangondelicioso.flv?android_vs.ts.m3u8
+#EXTINF:-1 group-title="VAUGHNSOFT", Peliculas_moe
+https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv?android_vs.ts.m3u8
+#EXTINF:-1 group-title="VAUGHNSOFT", Simpson_media
+https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv?android_vs.ts.m3u8
+#EXTINF:-1 group-title="VAUGHNSOFT", Goku_tv_latam
+https://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_latam.flv?android_vs.ts.m3u8
+#EXTINF:-1 group-title="VAUGHNSOFT", Goku_tv_oficial
+https://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_oficial.flv?android_vs.ts.m3u8
+#EXTINF:-1 group-title="VAUGHNSOFT", Televisionomega
+https://stream-cdn-iad3.vaughnsoft.net/play/live_televisionomega.flv?android_vs.ts.m3u8
 
 
